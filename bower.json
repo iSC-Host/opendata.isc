@@ -1,0 +1,17 @@
+{
+"name": "isc-opendata.github.io",
+"version": "1.0",
+"homepage": "http://isc-opendata.github.io",
+"authors": [
+"(iSC) OpenData Institute"
+],
+"description": "(iSC) OpenData is a non-profit-organisation and institute which is focused on government and open knowledge.",
+"main": "index.html",
+"license": "MIT",
+"dependencies": {
+"bootstrap": "~2.3.2",
+"jquery": "~1.11.0",
+"html5shiv": "~3.7.0",
+"respond": "~1.4.2"
+}
+}
