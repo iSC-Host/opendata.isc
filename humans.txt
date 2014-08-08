@@ -1,0 +1,35 @@
+/* THIS IS THE HUMANS.TXT TO SIGN THIS WEBSITE! */
+
+
+/* TEAM */
+
+// Maintainer(s)
+Author: (iSC) OpenData
+Site: http://opendata.isc
+
+// Founder
+Author: Suriyaa Kudo
+Site: http://suriyaa.isc
+Twitter: @SuriyaaKudoIsc
+Location: Munich (MÜ) , Bavaria (BY), Germany (DE)
+
+----
+
+/* THANKS */
+
+* GitHub
+* iSC Host
+* Bootstrap
+* Normalize.css
+* jQuery
+
+----
+
+/* SITE */
+
+Link: http://opendata.isc
+Create date: 2014/08/08
+Last update: 2014/08/08
+Standards: HTML5, CSS3
+Components: HTML5, CSS3, Ruby, ...
+Software: GitHub
